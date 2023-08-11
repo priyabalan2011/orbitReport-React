@@ -19,4 +19,5 @@ const Buttons = ({filterByType,displaySats,setSat}) => {
   );
 };
 
+
 export default Buttons;
